@@ -13,6 +13,7 @@ Librería Numpy:
 - Referencia y Copia de Arreglos.
 - Operaciones: Operaciones entre Arreglos, Operaciones con Escalares.
 - Aplicando Funciones a un Arreglo.
+
 Librería Pandas
 - Reseña Librería Pandas.
 - Tipo de Dato Serie:
@@ -28,6 +29,7 @@ Librería Pandas
 - Métodos Básicos de Exploración (Head, Tail, Info, Describe).
 - Métodos Básicos de Sumarización (Min, Max, Count, Mean, Median, Sum).
 - Métodos Unique, Nunique, Value_Counts.
+
 Obtención de Datos desde Archivos
 - CSV: Leyendo un Archivo CSV.
 - Escribiendo un Archivo CSV.
@@ -35,6 +37,7 @@ Obtención de Datos desde Archivos
 - Leyendo un Archivo Excel.
 - Escribiendo un Archivo Excel.
 - Leer Tablas Web con Pandas.
+
 Limpieza y Obtención de Datos Con Pandas
 - Qué es un Valor Perdido.
 - Identificación de Valores Perdidos.
@@ -62,6 +65,7 @@ Limpieza y Obtención de Datos Con Pandas
 - Definir y Resetear Indices.
 - Renombrar Columnas e Indices.
 - Remover Duplicados.
+
 Agrupamiento, Pivoteo y Combinación de Datos.
 - Agrupación con Indexación Jerárquica.
 - Agrupamiento de Datos con la Función Groupby.
